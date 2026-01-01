@@ -16,5 +16,4 @@ focusing on understanding core systems used in real-world production.
 
 ## Goal
 Build strong backend fundamentals through consistent learning and reflection.
-# backend-engineering-notes
-Daily learning journal for Backend Engineering
+
