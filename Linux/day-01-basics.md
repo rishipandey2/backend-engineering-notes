@@ -43,7 +43,7 @@ Linux is secure by default. You are a "normal user" and cannot break the system 
 * **`sudo`** stands for **"SuperUser Do"**. 
 * If you try to install a database or edit a system config and get "Permission Denied," you usually need to put `sudo` in front (e.g., `sudo apt install nodejs`).
 
-## 6.  Day 1 Outcomes 
+## 5.  Day 1 Outcomes 
 1.  **Find your location:** `pwd`
 2.  **Create a project folder:** `mkdir my_api`
 3.  **Enter the folder:** `cd my_api`
