@@ -1,3 +1,4 @@
+
 # Backend Engineering Learning Journal
 
 This repository documents my daily learning journey in backend engineering,
@@ -16,4 +17,3 @@ focusing on understanding core systems used in real-world production.
 
 ## Goal
 Build strong backend fundamentals through consistent learning and reflection.
-
