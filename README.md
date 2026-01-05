@@ -8,7 +8,7 @@ focusing on understanding core systems used in real-world production.
 - Linux & Shell
 - Networking
 - Databases
-- Backend System Design
+- Backend System
 
 ## Learning Method
 - Learn daily
